@@ -1,1 +1,5 @@
+Predicting thermoelectric properties (band specific Seeb_coef, elec_cond, therm_cond) of Bi2Te3 based materials.
+Fitting material parameters to match the measured temperature dependence of material properties. 
+Plotting results.
 
+Be advised: the file may not contain the latest, verified or bug free version of the code!
